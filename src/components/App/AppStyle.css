@@ -1,0 +1,24 @@
+* {
+    background-color: rgb(29, 29, 29);
+    color: chartreuse;
+    font-family:'Courier New', Courier, monospace;
+    margin: auto;
+    padding: 0%;
+}
+
+.app {
+    display: flex;
+    flex-direction: column;
+    flex: auto;
+}
+
+.input {
+    border: 1px solid chartreuse;
+    width: 60%;
+}
+
+.input
+{
+    border: 1px solid chartreuse;
+
+}
